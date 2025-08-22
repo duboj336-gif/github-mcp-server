@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+Aviator predictor v4.0 Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
